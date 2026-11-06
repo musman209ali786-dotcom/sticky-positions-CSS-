@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>School Club Website</title>
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+</head>
+<body>
+
+<div class="container">
+
+<h1>School Club Website</h1>
+<p>Welcome to our school clubs!</p>
+
+<div class="row">
+
+<div class="col-md-4">
+    <div class="bg-info p-3">
+        <h3>Science Club</h3>
+        <p>Learn science and experiments.</p>
+    </div>
+</div>
+
+<div class="col-md-4">
+    <div class="bg-warning p-3">
+        <h3>Sports Club</h3>
+        <p>Enjoy games and sports.</p>
+    </div>
+</div>
+
+<div class="col-md-4">
+    <div class="bg-success p-3">
+        <h3>Art Club</h3>
+        <p>Explore drawing and painting.</p>
+    </div>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>
